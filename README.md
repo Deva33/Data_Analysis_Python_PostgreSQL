@@ -1,6 +1,8 @@
-# WorldBank_Data_Analysis_Python.Postgre
+# Perform Data Analysis and Model using Python and PostgreSQL
 World Bank Dataset Analysis using Python and PostgreSQL
+
 Problem Statement:
+
 Write a Python script to retrieve publicly available data and perform analysis on that data using SQL. Publicly available data is available from the World Bank. One dataset which contains information about countries is available through World Bank API1 and its documentation provides all the necessary details on how to use it. Another dataset which includes Gross Domestic Product (GDP) data in CSV format is available for download2 from World Bank Data Catalog.
 
 Approach:
